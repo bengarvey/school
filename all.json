@@ -1,0 +1,2992 @@
+	{
+	"Main" : "",
+	"children" : [
+		{
+		"SCHOOL_CODE" : "4560",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4560",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "91.6",
+				"SCH_ENROLLMENT" : "313",
+				"SCH_STUDENT_ENTERED" : "57",
+				"SCH_STUDENT_WITHDREW" : "53",
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4030",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4030",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "94.7",
+				"SCH_ENROLLMENT" : "704",
+				"SCH_STUDENT_ENTERED" : "3",
+				"SCH_STUDENT_WITHDREW" : "21",
+				}
+
+			]
+			}
+
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4030",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "4030",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "2420",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "2420",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "92.5",
+				"SCH_ENROLLMENT" : "368",
+				"SCH_STUDENT_ENTERED" : "47",
+				"SCH_STUDENT_WITHDREW" : "77",
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "2210",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "2210",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "93.6",
+				"SCH_ENROLLMENT" : "375",
+				"SCH_STUDENT_ENTERED" : "26",
+				"SCH_STUDENT_WITHDREW" : "37",
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4150",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4150",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "83.6",
+				"SCH_ENROLLMENT" : "500",
+				"SCH_STUDENT_ENTERED" : "86",
+				"SCH_STUDENT_WITHDREW" : "129",
+				}
+
+			]
+			}
+
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4150",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "1080",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "1080",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "80.6",
+				"SCH_ENROLLMENT" : "656",
+				"SCH_STUDENT_ENTERED" : "131",
+				"SCH_STUDENT_WITHDREW" : "180",
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "7130",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7130",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "92",
+				"SCH_ENROLLMENT" : "562",
+				"SCH_STUDENT_ENTERED" : "57",
+				"SCH_STUDENT_WITHDREW" : "70",
+				}
+
+			]
+			}
+
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7130",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6430",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6430",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "92.5",
+				"SCH_ENROLLMENT" : "389",
+				"SCH_STUDENT_ENTERED" : "90",
+				"SCH_STUDENT_WITHDREW" : "71",
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6330",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6330",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "89.5",
+				"SCH_ENROLLMENT" : "602",
+				"SCH_STUDENT_ENTERED" : "113",
+				"SCH_STUDENT_WITHDREW" : "187",
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6310",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6310",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "94.8",
+				"SCH_ENROLLMENT" : "386",
+				"SCH_STUDENT_ENTERED" : "37",
+				"SCH_STUDENT_WITHDREW" : "43",
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6240",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6240",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "92.1",
+				"SCH_ENROLLMENT" : "349",
+				"SCH_STUDENT_ENTERED" : "71",
+				"SCH_STUDENT_WITHDREW" : "57",
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "7260",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7260",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "94.6",
+				"SCH_ENROLLMENT" : "408",
+				"SCH_STUDENT_ENTERED" : "39",
+				"SCH_STUDENT_WITHDREW" : "33",
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6230",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6230",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "95.1",
+				"SCH_ENROLLMENT" : "333",
+				"SCH_STUDENT_ENTERED" : "9",
+				"SCH_STUDENT_WITHDREW" : "37",
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6110",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6110",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "89.9",
+				"SCH_ENROLLMENT" : "362",
+				"SCH_STUDENT_ENTERED" : "73",
+				"SCH_STUDENT_WITHDREW" : "87",
+				}
+
+			]
+			}
+
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6110",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6100",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6100",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "92",
+				"SCH_ENROLLMENT" : "313",
+				"SCH_STUDENT_ENTERED" : "30",
+				"SCH_STUDENT_WITHDREW" : "43",
+				}
+
+			]
+			}
+
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6100",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "7530",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7530",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "94.2",
+				"SCH_ENROLLMENT" : "463",
+				"SCH_STUDENT_ENTERED" : "41",
+				"SCH_STUDENT_WITHDREW" : "53",
+				}
+
+			]
+			}
+
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7530",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6440",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2010-2011",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6440",
+				"SCHOOL_YEAR" : "2010-2011",
+				"SCH_ATTENDANCE" : "94.5",
+				"SCH_ENROLLMENT" : "417",
+				"SCH_STUDENT_ENTERED" : "39",
+				"SCH_STUDENT_WITHDREW" : "32",
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "1580",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "1580",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "2000",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "2000",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "2010",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "2010",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "2020",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "2020",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "2090",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "2090",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "2130",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "2130",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "2140",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "2140",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "2160",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "2160",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5600",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5600",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "2290",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "2290",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "7500",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7500",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "7730",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7730",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8020",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8020",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "8020",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8320",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8320",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8030",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8030",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "8030",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8090",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8090",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "8090",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8120",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8120",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8140",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8140",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8160",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8160",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8010",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8010",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4060",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4060",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "4060",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4100",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4100",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4140",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4140",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "4140",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4020",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4020",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "4020",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5020",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5020",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "5020",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5060",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5060",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "5060",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5070",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5070",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "5070",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5430",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5430",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5450",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5450",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "5450",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "1050",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "1050",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "1050",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "1060",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "1060",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+				{
+				null : null,
+				"children" : [
+					{
+					"SCHOOL_CODE" : "1060",
+					"SCHOOL_YEAR" : "2008-2009",
+					"GRADE" : "07",
+					"MATH_ADVANCED_PERCENT" : null,
+					"MATH_PROFICIENT_PERCENT" : null,
+					"MATH_BASIC_PERCENT" : null,
+					"MATH_BELOW_BASIC_PERCENT" : null,
+					"READ_ADVANCED_PERCENT" : null,
+					"READ_PROFICIENT_PERCENT" : null,
+					"READ_BASIC_PERCENT" : null,
+					"READ_BELOW_BASIC_PERCENT" : null,
+					"MATH_COMBINED_PERCENT" : null,
+					"READ_COMBINED_PERCENT" : null,
+					}
+
+				]
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5080",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5080",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5110",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5110",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5150",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5150",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5230",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5230",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6050",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6050",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6060",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6060",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6090",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6090",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6460",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6460",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6010",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6010",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6020",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6020",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6030",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6030",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6040",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6040",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6480",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6480",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6540",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6540",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "7110",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7110",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "04",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "7380",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7380",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "7430",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7430",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "7440",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7440",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "7470",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7470",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "7490",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "7490",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8250",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8250",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8260",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8260",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8270",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8270",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8310",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8310",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8340",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8340",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8180",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8180",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8210",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8210",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8360",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8360",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8370",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8370",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8440",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8440",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8410",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8410",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "8400",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "8400",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4240",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4240",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4280",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4280",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "6390",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "6390",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4370",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4370",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4380",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4380",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4390",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4390",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4430",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4430",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4440",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4440",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "4470",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "4470",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5400",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5400",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5410",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5410",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5440",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5440",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5470",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5470",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5490",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5490",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5530",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5530",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+		{
+		"SCHOOL_CODE" : "5590",
+		"children" : [
+			{
+			"SCHOOL_YEAR" : "2008-2009",
+			"children" : [
+				{
+				"SCHOOL_CODE" : "5590",
+				"SCHOOL_YEAR" : "2008-2009",
+				"GRADE" : "07",
+				"MATH_ADVANCED_PERCENT" : null,
+				"MATH_PROFICIENT_PERCENT" : null,
+				"MATH_BASIC_PERCENT" : null,
+				"MATH_BELOW_BASIC_PERCENT" : null,
+				"READ_ADVANCED_PERCENT" : null,
+				"READ_PROFICIENT_PERCENT" : null,
+				"READ_BASIC_PERCENT" : null,
+				"READ_BELOW_BASIC_PERCENT" : null,
+				"MATH_COMBINED_PERCENT" : null,
+				"READ_COMBINED_PERCENT" : null,
+				}
+
+			]
+			}
+
+		]
+		}
+
+	]
+	}
