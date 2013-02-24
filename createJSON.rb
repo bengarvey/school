@@ -46,6 +46,9 @@ class Node
       j += "#{tab}{\n"
       j += "#{tab}#{groupname.to_json} : #{groupvalue.to_json},\n"
      # j += "#{tab}\"depth\" : #{depth.to_s.to_json},\n"
+      @data.each do |k,v|
+        j += "#{tab}#{k.to_json} : #{v.to_json},\n"
+      end
       j += "#{tab}\"children\" : [\n"
 
       @children.each do |c|
@@ -69,6 +72,24 @@ class Node
     j = j.chomp(",\n") + "\n"
 
     return j
+  end
+
+  def print
+    @data.each do |k,v|
+      puts "#{k} => #{v}"
+    end
+  end
+
+  def getData()
+    return @data
+  end
+
+  def addData(node)
+    puts @data
+    puts node.getData
+    @data = @data.merge(node.getData)
+    puts "DATA MERGE"
+    puts @data
   end
  
   def initialize
@@ -114,11 +135,23 @@ class District
 
       #current.groupname = @keys[depth]
 
-      #puts "Depth:  #{depth}"
-      #puts "Group:  #{current.groupname}"     
- 
+      puts "Depth:  #{depth}"
+      puts "Group:  #{current.groupname}"     
+      puts "SCHOOL_NAME: #{node.get('SCHOOL_NAME_1')}"
+      puts "KEY:  #{@keys[depth+1].to_s}"
+      if node.get('SCHOOL_NAME_1').to_s != ""
+        node.print
+       # gets
+      end
+      
+      # If we don't have a value for the key we need, just add it at this level
+      if node.get(@keys[depth]).to_s == ""
+        current.addData(node)
+        found = true
+        puts "Adding"
+         #gets
       # Have we found a childless node, but below max depth?
-      if (current.children.count == 0 && depth <= @keys.count)
+      elsif (current.children.count == 0 && depth <= @keys.count)
         #puts "No kids, below depth #{depth} vs #{@keys.count}"
 
         # Set the group for this depth and move down
@@ -126,7 +159,7 @@ class District
         #current.groupname  = @keys[depth]
        
         if depth == @keys.count
-            current.children.push(node)
+          current.children.push(node)
           #puts "LOOK 1"
           found = true
         else 
@@ -148,14 +181,18 @@ class District
 
         depth += 1
 
-      elsif depth > @keys.count  # Have we reached max depth?
+      elsif depth >= @keys.count  # Have we reached max depth?
         #puts "Max depth"
 
         # Connect it to the tree
 
-        if node.children.count > 0
-          current.children.push(node.children)
-        end
+        #if node.children.count > 0
+          #current.children.push(node.data)
+        #end
+        #puts current.getData
+        #gets
+        current.addData(node)
+      
         #puts "LOOK 3"
         found = true
       else # Check to see if we match up with any of these child nodes
@@ -163,6 +200,9 @@ class District
         # Get child nodes
         kids = current.children
         foundit = false
+
+
+        
 
         kids.each do |k| 
 
@@ -181,15 +221,17 @@ class District
         
         # If we didn't find it, add a new group node
         if (!foundit)
-          #puts "Didn't find a match, adding this node"
-          n = Node.new
-          n.groupvalue = node.get(@keys[depth])
-          n.groupname = @keys[depth]
-          current.children.push(n)
-          #puts "LOOK 4"
-          current = n
-          depth += 1 
-          count += 1
+  
+            #puts "Didn't find a match, adding this node"
+            n = Node.new
+            n.groupvalue = node.get(@keys[depth])
+            n.groupname = @keys[depth]
+            current.children.push(n)
+            #puts "LOOK 4"
+            current = n
+            depth += 1 
+            count += 1
+
         end
       end
     end
@@ -245,6 +287,7 @@ end
 d = District.new
 d.addKey('SCHOOL_CODE');
 d.addKey('SCHOOL_YEAR');
+d.addKey('GRADE');
 
 # Find all the CSV files in this directory
 dirfiles = Dir.entries('./data/')
@@ -258,7 +301,7 @@ dirfiles.each do |f|
     puts "Found #{f}"   
     first = true
     f = "data/#{f}"
-
+    #gets
     # Process CSV file
     CSV.foreach(f) do |row|
       
@@ -279,3 +322,4 @@ dirfiles.each do |f|
 end
 
 File.open("all.json", 'w') { |file| file.write(d.to_json(0)) }
+
